@@ -38,7 +38,8 @@ public class paperSteps {
         new SecondProduct().goToSecond();
         new IndivisualProduct().shoppingCartLink();
         new Basket().basket();
-        new Basket().basketCheckout();
+        new Basket().name(); /// ALL BASKET CHECK OUT FROM THE BASKET
+
     }
 
 
